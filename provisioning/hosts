@@ -1,0 +1,4 @@
+summerschool.react ansible_connection=local
+
+[summerschool]
+summerschool.react
